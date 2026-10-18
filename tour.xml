@@ -63,8 +63,8 @@
 
 		<image>
 			<splats url="splats/Cuarto.ply"
-			        scale="1" rx="180" ry="0" rz="0"
-			        tx="0" ty="0" tz="0" />
+			        scale="1" rx="-2.11" ry="0.2" rz="0.1"
+			        tx="0.5" ty="-2.97" tz="180" />
 		</image>
 
 	</scene>
