@@ -62,7 +62,7 @@
 		<view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" fovmin="40" fovmax="120" limitview="off" />
 
 		<image>
-			<splats url="splats/Cuarto2.compressed.ply"
+			<splats url="splats/Cuarto.ply"
 			        scale="1" rx="180" ry="0" rz="0"
 			        tx="0" ty="0" tz="0" />
 		</image>
